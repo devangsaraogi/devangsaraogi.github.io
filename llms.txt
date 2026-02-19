@@ -1,0 +1,52 @@
+# Devang Saraogi
+
+> CS Graduate Student at NC State University focused on applied machine learning, with experience building systems and data pipelines for real-world ML deployment.
+
+## About
+
+Devang Saraogi is a Master's student in Computer Science at North Carolina State University (expected May 2026). He holds a Bachelor of Technology in Computer Science from PES University, Bangalore, India. His work spans model training, evaluation, robustness analysis, and building scalable data pipelines and distributed systems. He is interested in machine learning engineering roles where model performance, data quality, and system design intersect.
+
+## Contact
+
+- Email: dsaraog@ncsu.edu
+- Email: devangsaraogi@outlook.com
+- Location: Raleigh, NC
+- GitHub: https://github.com/devangsaraogi
+- LinkedIn: https://linkedin.com/in/devangsaraogi
+- Website: https://devangsaraogi.github.io
+
+## Education
+
+- Master of Science in Computer Science, North Carolina State University (Aug 2024 — May 2026), GPA: 3.67/4.00. Courses: Deep Learning, Graduate Operating Systems, Algorithms, Software Engineering & Design, OOPs.
+- Bachelor of Technology in Computer Science, PES University (Aug 2020 — May 2024), GPA: 7.54/10.00. Courses: Machine Intelligence, Cloud Computing, Databases, Big Data, Data Analytics.
+
+## Skills
+
+- Domain: Machine Learning, Software Development, Data Analytics, Deep Learning
+- Languages: Python, JavaScript, SQL, C/C++, HTML/CSS, Shell
+- Frameworks/Tools: PyTorch, React, Node.js, Flask, Selenium, Git, Docker, Postman
+- Libraries: OpenCV, NumPy, Pandas, Scikit-Image
+
+## Work Experience
+
+- Data Analyst Intern at NetApp, Durham, NC (May — Oct 2025). Applied unsupervised learning to customer KPI data, built scalable data preprocessing pipelines, and delivered a proof-of-concept analytics framework using clustering-based insights for account management.
+- Software Development Intern at IDfy Labs, Mumbai, India (Jan — Jun 2024). Built ML-driven verification components for a production KYC system including speech-adaptive workflows, vision-based document verification, and a BERT-based transaction categorization model.
+- Summer Research Intern at CAVE Labs, PES University, Bangalore, India (Jun — Jul 2023). Developed an automated personality generation system using LLMs (GPT, LLaMA) integrated into Unity for diverse patient simulations. Authored a research paper (under review).
+
+## Notable Projects
+
+- AI Agent Marketplace (Kova): Hackathon-winning platform where AI agents post bounty-based tasks with Solana escrow and trust scoring. 1st place at Hack_NCState 2026. https://github.com/RandomOscillations/kova
+- Model Calibration Under Distribution Shift: Evaluation pipeline studying confidence calibration and robustness under distribution shift using ResNet-18 on HPC GPU cluster. https://github.com/devangsaraogi/calibration-under-corruption
+- Operating Systems Projects: Extended the XINU kernel with CPU schedulers, demand-paged virtual memory, and a UNIX-style disk defragmenter. https://github.com/devangsaraogi/xinu-operating-system-projects
+- Leukocyte Classification: Deep learning system for blood cell classification using VGG16, ResNet, and InceptionV3. Published at IEEE. https://ieeexplore.ieee.org/document/10126331
+
+## Achievements
+
+- 1st Place at Hack_NCState 2026 (MLH) for building Kova.
+
+## Pages
+
+- Home: https://devangsaraogi.github.io/
+- CV: https://devangsaraogi.github.io/cv
+- Project Archive: https://devangsaraogi.github.io/archive
+- Resume (PDF): https://devangsaraogi.github.io/resume.pdf
