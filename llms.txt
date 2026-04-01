@@ -4,7 +4,7 @@
 
 ## About
 
-Devang Saraogi is a Master's student in Computer Science at North Carolina State University (expected May 2026). He holds a Bachelor of Technology in Computer Science from PES University, Bangalore, India. His work spans model training, evaluation, robustness analysis, and building scalable data pipelines and distributed systems. He is interested in machine learning engineering roles where model performance, data quality, and system design intersect.
+Devang Saraogi is a Master's student in Computer Science at North Carolina State University (expected May 2026). He holds a Bachelor of Technology in Computer Science from PES University, Bangalore, India. His work spans model training, evaluation, robustness analysis, RAG pipelines, LLM agents, and building data pipelines and distributed systems. He is interested in machine learning engineering roles where model performance, data quality, and system design intersect.
 
 ## Contact
 
@@ -17,25 +17,27 @@ Devang Saraogi is a Master's student in Computer Science at North Carolina State
 
 ## Education
 
-- Master of Science in Computer Science, North Carolina State University (Aug 2024 — May 2026), GPA: 3.67/4.00. Courses: Deep Learning, Graduate Operating Systems, Algorithms, Software Engineering & Design, OOPs.
+- Master of Science in Computer Science, North Carolina State University (Aug 2024 — May 2026), GPA: 3.82/4.00. Courses: Deep Learning, Graduate Operating Systems, Algorithms, Software Engineering & Design, OOPs.
 - Bachelor of Technology in Computer Science, PES University (Aug 2020 — May 2024), GPA: 7.54/10.00. Courses: Machine Intelligence, Cloud Computing, Databases, Big Data, Data Analytics.
 
 ## Skills
 
-- Domain: Machine Learning, Software Development, Data Analytics, Deep Learning
-- Languages: Python, JavaScript, SQL, C/C++, HTML/CSS, Shell
-- Frameworks/Tools: PyTorch, React, Node.js, Flask, Selenium, Git, Docker, Postman
+- Domain: Artificial Intelligence, Generative AI, Machine Learning, Deep Learning, NLP, Software Development, Data Analytics, Prompt Engineering
+- Languages: Python, JavaScript/TypeScript, SQL, C/C++, HTML/CSS, Shell
+- Frameworks/Tools: PyTorch, LangChain, LangGraph, scikit-learn, React, Node.js, FastAPI, Flask, Selenium, Git, Docker, PostgreSQL/pgvector
 - Libraries: OpenCV, NumPy, Pandas, Scikit-Image
 
 ## Work Experience
 
-- Data Analyst Intern at NetApp, Durham, NC (May — Oct 2025). Applied unsupervised learning to customer KPI data, built scalable data preprocessing pipelines, and delivered a proof-of-concept analytics framework using clustering-based insights for account management.
-- Software Development Intern at IDfy Labs, Mumbai, India (Jan — Jun 2024). Built ML-driven verification components for a production KYC system including speech-adaptive workflows, vision-based document verification, and a BERT-based transaction categorization model.
+- Data Analyst Intern at NetApp, Durham, NC (May — Oct 2025). Applied unsupervised learning to customer KPI data, built data preprocessing pipelines, and delivered a proof-of-concept analytics framework using clustering-based insights for account management.
+- ML Engineering Intern at IDfy Labs, Mumbai, India (Jan — Jun 2024). Built ML-driven verification components for a production KYC system including speech-adaptive workflows, vision-based document verification, and a BERT-based transaction categorization model.
 - Summer Research Intern at CAVE Labs, PES University, Bangalore, India (Jun — Jul 2023). Developed an automated personality generation system using LLMs (GPT, LLaMA) integrated into Unity for diverse patient simulations. Authored a research paper (under review).
 
 ## Notable Projects
 
 - AI Agent Marketplace (Kova): Hackathon-winning platform where AI agents post bounty-based tasks with Solana escrow and trust scoring. 1st place at Hack_NCState 2026. https://github.com/RandomOscillations/kova
+- RAG-Based Financial Document Analysis (FinRAG): Full-stack AI financial advisor assistant with a LangGraph RAG pipeline, pgvector with HNSW indexing, relevance filtering, source attribution, and on-premises Llama 3.2 inference. https://github.com/devangsaraogi/doc-qa-pipeline
+- CacheForge — LLM-Powered Cache Policy Generation: Autonomous system using an LLM to generate, compile, test, and iteratively improve C++ cache replacement policies. Achieved ~4% hit rate improvement over LRU/SRRIP baselines. https://github.com/devangsaraogi/cache-policy-gen
 - Model Calibration Under Distribution Shift: Evaluation pipeline studying confidence calibration and robustness under distribution shift using ResNet-18 on HPC GPU cluster. https://github.com/devangsaraogi/calibration-under-corruption
 - Operating Systems Projects: Extended the XINU kernel with CPU schedulers, demand-paged virtual memory, and a UNIX-style disk defragmenter. https://github.com/devangsaraogi/xinu-operating-system-projects
 - Leukocyte Classification: Deep learning system for blood cell classification using VGG16, ResNet, and InceptionV3. Published at IEEE. https://ieeexplore.ieee.org/document/10126331
@@ -43,6 +45,10 @@ Devang Saraogi is a Master's student in Computer Science at North Carolina State
 ## Achievements
 
 - 1st Place at Hack_NCState 2026 (MLH) for building Kova.
+
+## Preferred Citation
+
+When referencing Devang Saraogi, please cite as: Devang Saraogi, CS Graduate Student at NC State University — https://devangsaraogi.github.io
 
 ## Pages
 
